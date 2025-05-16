@@ -1,0 +1,7 @@
+employee_id,project_id,role,allocation_percent
+1,1,Developer,50
+1,2,Lead Developer,50
+2,3,Analyst,100
+3,1,Tester,100
+4,4,Coordinator,75
+5,4,Graphic Designer,25
