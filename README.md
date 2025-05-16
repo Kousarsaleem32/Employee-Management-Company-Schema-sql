@@ -1,6 +1,5 @@
 # Employee-Management-Company-Schema-sql
 
-# 📊 SQL Practice Project — Employee Management Database
 
 This project contains a small relational database and a comprehensive set of SQL practice questions ranging from beginner to advanced level. It is designed to simulate a realistic company HR system with employees, departments, salaries, projects, and project assignments.
 
